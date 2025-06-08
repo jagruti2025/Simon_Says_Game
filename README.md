@@ -12,7 +12,7 @@ A fun and interactive **Simon Says Game** built using HTML, CSS, and JavaScript!
 
 ---
 
-## 🛠️ Technology Used
+## 🛠️ Technology Used :
 
 - **HTML** – Structure of the game.
 - **CSS** – Styling and layout.
